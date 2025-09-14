@@ -1,0 +1,6 @@
+timestamp,age_range,gender,interests,occasion,budget,recommendations,ratings,average_rating
+2025-09-15T00:36:45.546164,18-25 (Young Adult),Any,"gaming, tech",Birthday,$30-$70,"['Test Gift 1', 'Test Gift 2']","[4, 5]",4.5
+2025-09-15T01:00:21.836872,18-25 (Young Adult),Male,"gaming, RGB keyboards, mechanical switches, esports tournaments",Birthday,$30-$80,"['RGB Gaming Mouse', 'Gaming Chair Cushion', 'Wireless Mouse', 'Gourmet Spice Set', 'LED Strip Lights']","[4, 5, 3, 4, 5]",4.2
+2025-09-15T01:00:21.845339,26-35 (Millennial),Female,"yoga, meditation, essential oils, mindfulness, self-care routines",Just Because,$25-$65,"['Yoga Mat', 'Meditation App Subscription', 'Herbal Bath Salts', 'Skincare Set', 'Cooking Utensils Set']","[4, 5, 3, 4, 5]",4.2
+2025-09-15T01:05:18.739248,18-25 (Young Adult),Male,"gaming, RGB keyboards, mechanical switches, esports tournaments",Birthday,$30-$80,"['RGB Gaming Mouse', 'Gaming Chair Cushion', 'Wireless Mouse', 'Gourmet Spice Set', 'LED Strip Lights']","[4, 5, 3, 4, 5]",4.2
+2025-09-15T01:05:18.746752,26-35 (Millennial),Female,"yoga, meditation, essential oils, mindfulness, self-care routines",Just Because,$25-$65,"['Yoga Mat', 'Meditation App Subscription', 'Herbal Bath Salts', 'Skincare Set', 'Cooking Utensils Set']","[4, 5, 3, 4, 5]",4.2

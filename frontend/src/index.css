@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-gradient-to-r from-primary-500 to-secondary-500 text-white px-6 py-3 rounded-xl font-semibold shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1;
+  }
+  
+  .btn-secondary {
+    @apply bg-white text-primary-600 border-2 border-primary-500 px-6 py-3 rounded-xl font-semibold hover:bg-primary-50 transition-all duration-300;
+  }
+  
+  .card {
+    @apply bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 p-6;
+  }
+  
+  .gift-card {
+    @apply bg-gift-gradient text-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 p-6;
+  }
+  
+  .input-field {
+    @apply w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-primary-500 focus:ring-0 transition-colors duration-200;
+  }
+  
+  .malayali-humor {
+    @apply bg-green-50 border-l-4 border-green-400 p-3 rounded-r-lg italic text-green-700;
+  }
+  
+  .recommendation-reason {
+    @apply bg-yellow-50 border-l-4 border-yellow-400 p-3 rounded-r-lg text-yellow-800;
+  }
+}
